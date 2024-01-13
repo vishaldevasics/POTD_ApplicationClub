@@ -1,0 +1,1 @@
+{"name":"Local: coodingIsBooring","url":"d:\\Work\\DSA_CPP\\POTD_BY_APPLICATION CLUB\\coodingIsBooring.cpp","tests":[{"id":1705140046536,"input":"2\n4\n2 4 6 8\n5\n24 8 12 16 100","output":"2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\DSA_CPP\\POTD_BY_APPLICATION CLUB\\coodingIsBooring.cpp","group":"local","local":true}
